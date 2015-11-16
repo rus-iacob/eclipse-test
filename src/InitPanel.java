@@ -24,7 +24,7 @@ public class InitPanel extends JPanel {
 	 */
 	 String[] boy ={"boss","smechers","smechere"};
 	 String[] girl={"lady","frumoaso"};
-	 String[] salut={"Hello","Buna","Salut","Hi","Server"};
+	 String[] salut={"Hello","Buna","Salut","Hi","Servus"};
 	 private JTextField textField;
 	 private Controller controller;
 	 private JLabel label;
