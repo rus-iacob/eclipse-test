@@ -132,7 +132,7 @@ public class Controller {
 		(new Thread(timer)).start();
 		view.schimbaPanel(2);
 		if(selectedIndex==0)
-			view.scrieMesaj("Calculatorul se va inchide in:");
+			view.scrieMesaj("Modified:");
 		else
 			view.scrieMesaj("Calculatorul intra in repaus in:");
 			
